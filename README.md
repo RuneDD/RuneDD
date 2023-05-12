@@ -16,6 +16,6 @@ I'm Rune, a cloud engineer from 🇧🇪 working at [vBridge](https://www.vbridg
 
 [GitHub: RuneDD](https://github.com/RuneDD)
 
-[LinkedIn: Vbridge Cloud](linkedin.com/company/vbridgecloud/)
+[LinkedIn: Vbridge Cloud](https://www.linkedin.com/company/vbridgecloud/)
 
 [Website: vBridge Cloud](https://www.vbridge.eu/)
