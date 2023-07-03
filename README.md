@@ -1,6 +1,6 @@
 # 👋 Hello there
 
-I'm Rune, a Cloud Engineer based in 🇧🇪, currently part of the [vBridge](https://www.vbridge.eu/) team.
+I'm Rune, a Cloud Engineer based in 🇧🇪, part of the [vBridge](https://www.vbridge.eu/) team.
 
 ☁️ I love experimenting with tech like Kubernetes, Terraform, Docker, and 🐧. My passion for migrating clients to serverless applications and solutions has empowered them to optimize operations and manage IT budgets effectively.
 
@@ -15,3 +15,7 @@ I'm Rune, a Cloud Engineer based in 🇧🇪, currently part of the [vBridge](ht
 [LinkedIn: Rune De Donder](https://www.linkedin.com/in/runededonder/)
 
 [GitHub: RuneDD](https://github.com/RuneDD)
+
+## 🔗 Other links
+
+[vBirgde website]((https://www.vbridge.eu/)
