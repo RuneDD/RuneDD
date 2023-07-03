@@ -18,4 +18,4 @@ I'm Rune, a Cloud Engineer based in 🇧🇪, part of the [vBridge](https://www.
 
 ## 🔗 Other links
 
-[vBirgde website](https://www.vbridge.eu/)
+[vBridge website](https://www.vbridge.eu/)
