@@ -12,7 +12,7 @@ I'm Rune, a Cloud Engineer based in 🇧🇪, part of the [vBridge](https://www.
 
 ## 🫡 Follow me here
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/runededonder/) and follow me on [GitHub](https://github.com/RuneDD)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/runededonder/) and follow me on [GitHub](https://github.com/RuneDD).
 
 ## 🔗 Other links
 
