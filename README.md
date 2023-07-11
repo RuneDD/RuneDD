@@ -4,7 +4,7 @@ I'm Rune, a Cloud Engineer based in 🇧🇪, part of the [vBridge](https://www.
 
 ☁️ I love experimenting with tech like Kubernetes, Terraform, Docker, and 🐧. My passion for migrating clients to serverless applications and solutions has empowered them to optimize operations and manage IT budgets effectively.
 
-## 💡 Current projects
+## 💡 Public work
 
 - [GCP-CloudRun-VPC-Integration-Module](https://github.com/RuneDD/GCP-CloudRun-VPC-Integration-Module) : Advanced Terraform module for easy deployment of Google Cloud Run services with VPC integration.
 
