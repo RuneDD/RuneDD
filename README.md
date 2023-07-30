@@ -7,6 +7,7 @@ I'm Rune, a Cloud Engineer based in 🇧🇪, part of the [vBridge](https://www.
 ## 💡 Public work
 
 - [GCP-CloudRun-VPC-Integration-Module](https://github.com/RuneDD/GCP-CloudRun-VPC-Integration-Module) : Advanced Terraform module for easy deployment of Google Cloud Run services with VPC integration.
+- [SiteUpdateNotifier](https://github.com/RuneDD/SiteUpdateNotifier) : Get easily notified when a website of your choice makes changes at a user-defined interval.
 
 🚀 Interested in my work? Want to have a friendly talk? Feel free to [connect](https://www.linkedin.com/in/runededonder/) with me and send me a message.
 
